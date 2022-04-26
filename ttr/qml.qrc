@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ghayth.jpg</file>
+        <file>home_page.qml</file>
+        <file>animate_logo.qml</file>
+        <file>32d993ba260c6bcbb7cd5fd77347fad1.gif</file>
+        <file>Mercedes Benz AMG G 63.I09.watermarked.2k.png</file>
+        <file>page2.qml</file>
+        <file>stackview.qml</file>
+        <file>setting_page.qml</file>
+        <file>location.gif</file>
+        <file>wifi.gif</file>
+        <file>music.gif</file>
+        <file>bluetooth.gif</file>
+        <file>usb.gif</file>
+        <file>tools.gif</file>
+        <file>home.gif</file>
+        <file>hhhome.gif</file>
+        <file>map.jpg</file>
+        <file>plus.png</file>
+        <file>minus.png</file>
+        <file>seat.png</file>
+        <file>windscreen-air.png</file>
+        <file>cooler.png</file>
+        <file>up.png</file>
+        <file>dwn.png</file>
+    </qresource>
+</RCC>
